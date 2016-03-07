@@ -1,7 +1,7 @@
 # CodeFX
 Hello and welcome to codefx repository.
 CodeFX is a simple java editor which is being developed by 
-Mwaka Ambrose as an open source project for the students faculty of
+Mwaka Ambrose as an open source project for the students of faculty of
 science at Gulu University. Its not Official i.e. Its not being supported by the 
 university. Its my hope tthough that someone at the University will get interested 
 and join in the project.
