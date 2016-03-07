@@ -1,4 +1,4 @@
-#
+# CodeFX
 Hello and welcome to codefx repository.
 CodeFX is a simple java editor which is being developed by 
 Mwaka Ambrose as an open source project for the students faculty of
