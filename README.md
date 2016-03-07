@@ -9,7 +9,8 @@ and join in the project.
 #Liscence
 MWAKA AMBROSE LISCENSCE AGREEMENT VERSION 1.0.0.Jan.2016
  (c) 2016 Mwaka Ambrose ambrosemwaka@gmail.com
- =============================================================================
+ ==================================================================================================
+ 
  This program is free software; you can redistribute it and/or
  modify it as long as you respect and stick to the
  agreements stated here in.
