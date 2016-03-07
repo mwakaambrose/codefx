@@ -6,8 +6,9 @@ science at Gulu University. Its not Official i.e. Its not being supported by the
 university. Its my hope tthough that someone at the University will get interested 
 and join in the project.
 
-#Liscence
+#Liscensce
 MWAKA AMBROSE LISCENSCE AGREEMENT VERSION 1.0.0.Jan.2016
+ 
  (c) 2016 Mwaka Ambrose ambrosemwaka@gmail.com
  ==========================================================================================
  
