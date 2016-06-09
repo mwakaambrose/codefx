@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="CodeFX.jnlp">
+  <information>
+    <title>CodeFX</title>
+    <vendor>AMBROSE</vendor>
+    <description>This is a java ide for beginers. it was built by jimtech co, ltd for gulu university</description>
+    <offline-allowed/>
+  <shortcut><desktop/></shortcut>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="CodeFX.jar" size="144257" download="eager" />
+    <jar href="lib\Lyec.jar" size="13430" download="eager" />
+    <jar href="lib\com-fifesoft-autocomplete-1.0.0.jar" size="79571" download="eager" />
+    <jar href="lib\rsyntaxtextarea-2.5.8.jar" size="1056316" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="CodeFX" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="com.mwaka.ambrose.codefx.CodeFX"  name="CodeFX" />
+  <update check="background"/>
+</jnlp>
