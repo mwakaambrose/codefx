@@ -7,7 +7,7 @@ university. Its my hope tthough that someone at the University will get interest
 and join in the project.
 
 ##Screenshot Preview
-<img src="http://ambrose.kanamo.biz/images/codefx.png" alt="shot" width="240">
+<img src="http://ambrose.kanamo.biz/images/codefx.png" alt="shot" width="500">
 
 #Dependencies
 CodeFx is dependent on a few jar files that are not included in this source.
