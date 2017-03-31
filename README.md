@@ -6,7 +6,6 @@ science at Gulu University. Its not Official i.e. Its not being supported by the
 university. Its my hope tthough that someone at the University will get interested 
 and join in the project.
 
-##Screenshot Preview
 <img src="http://ambrose.kanamo.biz/images/codefx.png" alt="shot" width="600">
 
 #Dependencies
